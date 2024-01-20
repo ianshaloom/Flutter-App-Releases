@@ -7,4 +7,16 @@
                   and secure data handling.
 </p>
 
+## Download Latest Release
+[Smarsh v.1.10](https://github.com/ianshaloom/Flutter-App-Releases/blob/main/Smarsh/smarsh.apk)
+
 ## Screenshots
+![Alt text](https://github.com/ianshaloom/Flutter-App-Releases/blob/main/Smarsh/user%20onboard.png)
+
+![Alt text](https://github.com/ianshaloom/Flutter-App-Releases/blob/main/Smarsh/login%20email%26password.png)
+
+![Alt text](https://github.com/ianshaloom/Flutter-App-Releases/blob/main/Smarsh/login%20with%20google.png)
+
+![Alt text](https://github.com/ianshaloom/Flutter-App-Releases/blob/main/Smarsh/create%20account.png)
+
+![Alt text](https://github.com/ianshaloom/Flutter-App-Releases/blob/main/Smarsh/from-homepage.png)
