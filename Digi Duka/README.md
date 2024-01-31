@@ -7,4 +7,4 @@
  *Releases comming soon, stay tuned*
  
 ## Screenshots
-![Alt text](https://github.com/ianshaloom/Flutter-App-Releases/blob/main/Digi%20Duka/digiduka-preview.png)
+![Alt text](https://github.com/ianshaloom/Flutter-App-Releases/blob/main/Digi%20Duka/digiduka.png)
