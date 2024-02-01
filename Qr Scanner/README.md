@@ -5,4 +5,4 @@ A simple QR code scanner that lets you scan and save your scanned codes for late
 [QR v1.0.0]()
 
 ## Screenshot
-
+![Alt text](https://github.com/ianshaloom/Flutter-App-Releases/blob/main/Qr%20Scanner/qr.png)
