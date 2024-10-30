@@ -10,6 +10,8 @@
 ## Download Latest Release
 [Smarsh v.1.10](https://github.com/ianshaloom/Flutter-App-Releases/blob/main/Smarsh/smarsh.apk)
 
+![Alt text](https://github.com/ianshaloom/Flutter-App-Releases/blob/9daac0dfd8cd8860b82e87bb8c77e653f100facd/Smarsh/Stock.jpg)
+
 ## Screenshots
 ![Alt text](https://github.com/ianshaloom/Flutter-App-Releases/blob/main/Smarsh/user%20onboard.png)
 
