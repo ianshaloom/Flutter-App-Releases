@@ -1,4 +1,4 @@
-# Kaisa Admin App ✨
+# Kaisa App ✨
 
 ![Alt text](https://github.com/ianshaloom/Flutter-App-Releases/blob/main/Kaisa/Kaisa.jpg)
 
