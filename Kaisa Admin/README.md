@@ -1,6 +1,6 @@
 # Kaisa Admin App ✨
 
-**A Flutter App For All Kaisa Super Users**
+![Alt text](https://github.com/ianshaloom/Flutter-App-Releases/blob/main/Kaisa%20Admin/kaisa-admin.jpg)
 
 ## Project Overview
 
@@ -24,4 +24,6 @@
 ✅ Backend server developed using **Dart Frog**.
 
 
-## Screen Previews
+## Some Screen Previews
+![Alt text](https://github.com/ianshaloom/Flutter-App-Releases/blob/main/Kaisa%20Admin/kaisa-admin-1.png)
+![Alt text](https://github.com/ianshaloom/Flutter-App-Releases/blob/main/Kaisa%20Admin/kaisa-admin-2.png)
