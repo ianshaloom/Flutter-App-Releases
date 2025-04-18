@@ -1,12 +1,12 @@
 # Care 360 🩺
 
-![Alt text](https://your-image-link.com/care360-banner.jpg](https://github.com/ianshaloom/Flutter-App-Releases/blob/main/Care%20360/Play-Store-Screenshots.png)
+![Alt text](https://github.com/ianshaloom/Flutter-App-Releases/blob/main/Care%20360/Play-Store-Screenshots.png)
 
 ## Project Overview
 
 > Care 360 is a comprehensive digital platform designed to transform care management by seamlessly connecting care homes, care agencies, and caregivers. Built for efficiency, collaboration, and real-time coordination, Care 360 empowers all stakeholders in the healthcare ecosystem with tools to streamline scheduling, communication, compliance, and care delivery.
 
-## Features
+## Features for the Care Giver App
 
   * **Schedule Access** – Instantly view and manage personal shifts and care responsibilities.
   * **Client Insights** – Access medication records, and specific care instructions.
@@ -40,8 +40,8 @@
 
 ## Screenshots
 
-![Alt text](https://your-image-link.com/care360-screens.png](https://github.com/ianshaloom/Flutter-App-Releases/blob/main/Care%20360/more-screenshots.png)
+![Alt text](https://github.com/ianshaloom/Flutter-App-Releases/blob/main/Care%20360/more-screenshots.png)
 
 ---
 
-Stay tuned for more updates as we build and pilot Care 360 with our partners!
+Stay tuned for more updates as we build and pilot Care 360 with our partners! 
