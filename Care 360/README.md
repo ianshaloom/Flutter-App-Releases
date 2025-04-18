@@ -35,8 +35,7 @@
 
  
 ## Key Highlights
-* Real-time notifications for shift updates, changes, and care plan updates.
-* Supports offline mode for caregivers in the field.
+* [Join Closed Testing](https://forms.gle/w9otgZMJT469xn4C6) tracks to test pre-release versions of this app.
 
 ## Screenshots
 
