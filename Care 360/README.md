@@ -1,6 +1,6 @@
 # Care 360 🩺
 
-![Care 360](https://your-image-link.com/care360-banner.jpg)
+![Alt text](https://your-image-link.com/care360-banner.jpg](https://github.com/ianshaloom/Flutter-App-Releases/blob/main/Care%20360/Play-Store-Screenshots.png)
 
 ## Project Overview
 
@@ -40,7 +40,7 @@
 
 ## Screenshots
 
-![Care 360 Screens](https://your-image-link.com/care360-screens.png)
+![Alt text](https://your-image-link.com/care360-screens.png](https://github.com/ianshaloom/Flutter-App-Releases/blob/main/Care%20360/more-screenshots.png)
 
 ---
 
