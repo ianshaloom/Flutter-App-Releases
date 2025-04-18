@@ -23,6 +23,9 @@
 
 ✅ Backend server developed using **Dart Frog**.
 
+## Play Store
+[KAISA ADMIN APP](https://play.google.com/store/apps/details?id=ke.outeringtoursandsafaris.kaisa_admin)
+
 
 ## Some Screen Previews
 ![Alt text](https://github.com/ianshaloom/Flutter-App-Releases/blob/main/Kaisa%20Admin/kaisa-admin-1.png)
