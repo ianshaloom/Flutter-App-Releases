@@ -23,6 +23,9 @@
 
 ✅ Backend server developed using **Dart Frog**.
 
+## Key Highlights
+* [Join Closed Testing](https://forms.gle/8M1XTrmhGEtVGdtr7) tracks to test pre-release versions of this app.
+
 
 ## Some Screen Previews
 
